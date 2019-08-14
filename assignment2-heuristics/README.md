@@ -8,7 +8,8 @@ A supermarket chain is being acquired by a consorsium of other chains. A manager
 - visiting time is 1.5 hours for Jumbo and 1 hour otherwise
 - the manager works at most 10 hours a day
 - every store can be visited from 9:00h to 17:00h (only 8 hours)
-Find the route that minimize the total distance travelled by the manager, using:
+
+The task is to find the route that minimize the total distance travelled by the manager, using, in order:
 1. Nearest Neighbor algorithm to construct the initial solution
 2. Two-edge exchange to improve the initial solution.
 3. Tabu-search and simulated annealing to optimize the whole routes.
