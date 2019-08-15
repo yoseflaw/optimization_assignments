@@ -36,3 +36,8 @@ each script expects 2 input files in the same directory:
 (therefore, the scripts need to be executed sequentially, except "model.py")
 
 to make the script run for shorter period of time, modify the configuration inside the script.
+
+Technology:
+- Python
+- Simanneal (https://github.com/phillipknauss/simanneal)
+- Pants (https://aco-pants.readthedocs.io/en/latest/_modules/pants/ant.html)
